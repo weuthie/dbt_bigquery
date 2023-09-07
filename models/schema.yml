@@ -1,0 +1,53 @@
+version: 2
+
+models:
+  - name: hosts_airbnb_paris
+    description: "La tables hosts_airbnb_paris"
+    columns:
+      - name: host_id
+        tests:
+          - unique
+          - not_null
+      
+
+sources:
+  - name: staging
+    database: cloudysenegalcours
+    schema: dbt_dev
+    tables:
+      - name: listings_airbnb_paris
+        columns:
+        - name: id
+          tests:
+            - unique
+            - not_null
+        - name: room_type
+          tests:
+            - not_null
+      - name: hosts_airbnb_paris
+      
+
+version: 2
+
+exposures:
+
+  - name: daily_airbnb
+    label: AirBnB Daily
+    type: dashboard
+    maturity: high
+
+    
+
+    depends_on:
+      - ref('activite')
+      - ref('annonceparhote')
+      - ref('licences')
+      - ref('locationcourtterme')
+      - ref('meilleurshotes')
+      - ref('typedechambre')
+      - source("staging","listings_airbnb_paris")
+      - source("staging","hosts_airbnb_paris")
+
+    owner:
+      name: Team 3
+      email: ouzediop1234@gmail.com

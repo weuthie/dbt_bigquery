@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "cloudysenegalcours",
+  "private_key_id": "3788e56d0c3b19c56bf4f7cf42106f89b30bec7c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLbc2zf07kZA3g\nVnwR1ooz+9WKDcdeYExg+vBvnqh8kbHpNmiDEYgZx/g5uWSN4x9Jfbst9H5ltnv0\ni6AisHQ8045tlKHDADVWmjbT9Y11cbUjFYlbFjxLNW/TH8+uzBiGdtqeyy/h7IGt\nEH6QGoAdnDS3UH1N9HKZ8QvTl5pasxNm6uN/algZelJEp1jRFhor5Lb1+85WcpGj\nefneiskNsjdAnqq9fcEkmfdtxeV9vgiwDpGzwKQ4TIKayGhaxPzQ5sLmMxgeVIyc\ntM15g/M8QfuSshXD5tgrcITUV+dJPi/UhSn8jsyWAreQLwwz+S/ocAt93aorJHnZ\nnWeQCFwNAgMBAAECggEAJTs28xuhOj6vpXfepDsiNypnpikobHbuc69pstwUVRwr\nNhYdoaNjR+in3xS1uRww3Tf0OpBtU7tGy3aEe+TUmU9U2WxjALf4ix2VXEysM6r4\nbm/iIDgdF9yzVy4SyhiTgoSdNYPVgyFQiHak20XmXcT5hvVlwY80LEWIFxU/jEq3\nf/wjpq/SRVfvvNG9GRk8/Ltrg3rrpqiVtLqoOWDTmuobqD8wOAUTMMQar98VD8EB\nJZgLqDy4uoY0QTNmJK/DIkOpWffRMbQJ0GWSgvQehrZYh0aYrMenR03jLDaMI++3\nTPOMj+jDgbqxKncO/xc8cfVuWSO0a0axsbWpJ5TV1wKBgQDm0DPXfVkXUN7zsUHU\nqMhVO1+rVMXDvM/QJMfJ+bIjk21a2xG4SE7zWbD3lpYZWDoLINKfxJFI9ANh7I8x\nmmI2b6xkD6f+sVbXnLLPZuv3TfYPto/d+hVgGvldap0Q8nSIBAXqaYPyHkzyk6Lq\nGz9NmhtXYb9W1c85MaR8AiPHFwKBgQDhoJ2ByHk81OVoL3U5/lt9t9sQSN+T4Jt1\nmk5otWOGwn1Sllgfpbiyf4fYtV+bglMgpT7XpOyYkdDioKKkOqxZNY2+r+4YjNyt\nnd/jXHWch9zultcv781OS/dtM+4IJ3kcunwfDGG4vuKU4u5NOlNs9RZX1NTRjpKl\njA8DXjZsewKBgELIJtfIish2O6vis5tmImCWxz15T6cssCwXGD9WIbatZ0yMafoZ\n4c4DO3LHfTJkFpc1rftQEoE7KOdiXKQLeTMq6IQjC4ZjpS7JRetAajGpuvIc7k9Z\nlmmyJEhlGoDWxeS81UFXujeJkNX25YI60/wOBK8ptwTW5Bg2RtMig1uNAoGBAIZR\nntLPbNV5DGUcs5XlxcOu+1vTdj5LnWDCjuEo8uobyI2s8SNN/glNgKrTNuqWCDTM\nCwBHr44YaJkx9gD86PNmvU6C36R/3zQAY3Ov7FhWTYFADTT9dmShNtgs7Qyvqxse\nLZwyO87G3I60FhelnFqmAToietuSG90v5xQjNxUXAoGAWiOKklqJ2sacv3FLodno\ngWCrSdAvdv6jOKdPLPeO9j2KXvgJB93tRiAMxXf2NGW4DcLYwpD2M81D6sCUMMnU\nxVL8WZUX+7r9/8xvXbd0Y71B/2YDyGwHvkl7i2zDm3yFupgFFYafiujmjnkRTKHg\nF6sOUQvxfcx3LgsYd4fZCWI=\n-----END PRIVATE KEY-----\n",
+  "client_email": "tp-cc-591@cloudysenegalcours.iam.gserviceaccount.com",
+  "client_id": "103137770585589131575",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tp-cc-591%40cloudysenegalcours.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
